@@ -10,4 +10,3 @@ import './styles/stylesheet.css'
 
 
 ReactDOM.render(<Main />, document.getElementById('root'));
-
